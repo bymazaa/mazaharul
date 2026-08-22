@@ -270,7 +270,7 @@ export const DSA_CASE_STUDIES: readonly EngineeringCaseStudy[] = [
         complexityFocus: 'Data consistency, transaction handling, and secure API design.',
         impact: 'Ensures safe and reliable financial operations with controlled data flow.',
         stack: ['Node.js', 'Express', 'PostgreSQL', 'JWT'],
-        liveUrl: 'https://pay.mazaharul.site',
+        liveUrl: 'https://finvaultnew.vercel.app',
     },
     {
         id: 'flybismillah-case',
@@ -282,7 +282,7 @@ export const DSA_CASE_STUDIES: readonly EngineeringCaseStudy[] = [
             'Response normalization, filtering pipelines, and API integration for fast data delivery.',
         impact: 'Improves search speed and provides clean, structured flight results to users.',
         stack: ['Next.js', 'PostgreSQL', 'Prisma', 'REST APIs'],
-        liveUrl: 'https://flybismillah.com/',
+        liveUrl: 'https://flybismillah.com',
     },
     {
         id: 'voterfinder-case',
@@ -293,7 +293,7 @@ export const DSA_CASE_STUDIES: readonly EngineeringCaseStudy[] = [
         complexityFocus: 'Indexed querying, fast lookup patterns, and optimized database access.',
         impact: 'Reduces search time and improves responsiveness across large datasets.',
         stack: ['Next.js', 'MongoDB'],
-        liveUrl: 'https://voterserial.vercel.app',
+        liveUrl: 'https://vseq.vercel.app',
     },
 ] as const;
 
