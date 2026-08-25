@@ -47,7 +47,7 @@ export const SOCIAL_LINKS: readonly SocialLink[] = [
     },
     {
         label: 'GitHub',
-        href: 'https://github.com/itsmaza',
+        href: 'https://github.com/bymaza',
         icon: 'github',
     },
     {
