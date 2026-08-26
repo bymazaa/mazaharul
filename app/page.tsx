@@ -557,7 +557,6 @@ export default function Portfolio() {
                                     <Typer
                                         texts={[
                                             'Full Stack Engineer',
-                                            'System Architect',
                                             'Problem Solver',
                                             PERSONAL.title,
                                         ]}
